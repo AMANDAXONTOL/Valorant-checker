@@ -11,7 +11,6 @@ from cryptocode import decrypt
 import ctypes
 from tkinter import filedialog, messagebox
 import os
-import tkinter
 import time
 import random
 from colorama import Fore
